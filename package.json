@@ -1,0 +1,10 @@
+{
+  "name": "dockertest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "hapi": "^11.0.2"
+  }
+}
